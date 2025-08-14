@@ -209,7 +209,7 @@ The system supports:
 
 ## 📜 License
 
-MIT License – free to use and modify.
+MIT License
 
 ---
 
