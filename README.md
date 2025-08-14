@@ -213,5 +213,3 @@ MIT License – free to use and modify.
 
 ---
 
-Do you want me to add that?
-
